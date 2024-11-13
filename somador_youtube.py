@@ -1,5 +1,5 @@
 ################################################
-##### PROGRAMADO POR: LEANDRO L. MONTANARI #####
+##### PROGRAMADO POR: SAMUEL LUCAS DA SILVA#####
 ################################################
 
 # Importações
